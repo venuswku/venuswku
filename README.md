@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there! 👋
 ### Welcome to my GitHub profile!
 
 Here's my old GitHub account: https://github.com/vwku .
