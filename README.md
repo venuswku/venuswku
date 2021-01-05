@@ -1,7 +1,7 @@
 # Hi there! 👋
 ### Welcome to my GitHub profile!
 
-Check out my personal website: https://venuswku.github.io/ !
+Check out my personal website: https://venuswku.github.io/ !\
 Here's my old GitHub account: https://github.com/vwku .
 
 <!--
