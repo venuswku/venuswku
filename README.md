@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hey there! 👋
 ### Welcome to my GitHub profile!
 
 Check out my personal website: https://venuswku.github.io/ !\
